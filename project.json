@@ -1,0 +1,95 @@
+{
+  "title": "Artepy Game",
+  "author": "https://farremi.org/musicas-paraguayas-en-mp3/",
+  "date": "19/06/24",
+  "areaCodes": [
+    "mus"
+  ],
+  "areas": {
+    "es": "Música"
+  },
+  "levelCodes": [
+    "SEC"
+  ],
+  "levels": {
+    "es": "Secundaria (12-16)"
+  },
+  "description": {
+    "es": "https://farremi.org/musicas-paraguayas-en-mp3/"
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "artepy_game.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 27,
+  "mediaFiles": 56,
+  "totalSize": 161655562,
+  "files": [
+    "84573-banderas-amrica-paraguay-corazn.gif",
+    "almaguarani.mp3",
+    "arrribeno_resai.mp3",
+    "artepy_game.jclic",
+    "artepy_game.jclic.js",
+    "asuncena_-_felix_perez_cardozo__youtube_.mp3",
+    "berta_4.png",
+    "buenos_aires_salud.mp3",
+    "caa_ti.mp3",
+    "carreta_guype.mp3",
+    "colorado_-_felix_perez_cardozo__youtube_.mp3",
+    "cristian_javier-_el_sueno_de_angelita-_felix_perez_cardozo__musica__en_arpa_paraguaya.mp3",
+    "efren_1.jpg",
+    "el_zapateado.mp3",
+    "f__artepygame_logo_mec.png",
+    "favicon.ico",
+    "felix-resized.jpg",
+    "felix895-resized.jpg",
+    "felix_14-resized.jpg",
+    "felix_cardozo_52-resized.jpg",
+    "feliz80-resized.jpg",
+    "gallito_cantor_-_musica__jose_asuncion_flores_-_letra__edgar_galeano_dominguez.mp3",
+    "gobierno-del-paraguay_png-transparente-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "image-resized.jpg",
+    "image__13_-resized.jpg",
+    "image__17_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "insignea_juan_pablo_ll_2.0-resized.jpg",
+    "ivan_felix_perez_cardozo.mp3",
+    "jose-asuncion-flores.mp3",
+    "jose-resized.jpg",
+    "jose445-resized.jpg",
+    "jose7-resized.jpg",
+    "jose8-resized.jpg",
+    "jose874-resized.jpg",
+    "jose_asuncion_flores._nde_rendape_ayu._guarania.mp3",
+    "jose_asuncion_flores_-_india.mp3",
+    "jose_asuncion_flores_25-resized.jpg",
+    "llegada_-_felix_perez_cardozo_-_paraguayanmusic__youtube_.mp3",
+    "logo_del_proyecto.png",
+    "logo_mec_2023-1036ed23a742e60990fcd3ba5ae2c618.png",
+    "mi_despedida.mp3",
+    "musica_felix_cardozo_carreta_guype.mp3",
+    "n_asaindype__guarania_.mp3",
+    "nemity.mp3",
+    "pajaro_campana_-_felix_perez_cardozo_y_su_conjunto.mp3",
+    "panambi_vera_-_manuel_ortiz_guerrero.mp3",
+    "paraguaype-jose-asuncion-flores.mp3",
+    "paraguaype.mp3",
+    "pngtree-flag-of-paraguay-with-old-texture-republic-national-standard-photo-image_18009968-resized2.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "republica-del-paraguay.png.png",
+    "saira_jose_asuncion_florez.mp3",
+    "teresita__elk5i6wc4o.mp3",
+    "tren_lechero___felix_perez_cardozo.mp3",
+    "uerda_suelta_-_che_pykasumi.mp3"
+  ]
+}
